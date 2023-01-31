@@ -1,0 +1,7 @@
+runtime: nodejs16
+
+env_variables:
+  DB_KEY: "abc"
+  JWT_SECRETE: "***"
+
+service: service1
